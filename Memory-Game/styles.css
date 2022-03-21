@@ -1,6 +1,11 @@
 #grid {
+    margin: auto;
     width: 400px;
     height: 300px;
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
+}
+#header {
+    text-align: center;
 }
